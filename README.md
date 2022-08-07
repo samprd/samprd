@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SheepTester81
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning Python. I am already good at Scratch!
+- 🌱 I’m good at programming games in Unity using C#, but I also no a bit about Python.
 
 <!---
 SheepTester81/SheepTester81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
