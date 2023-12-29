@@ -1,3 +1,11 @@
-# Hi there, I'm samp!
+# Hi there, I'm samp! 
 
-I'll put stuff here _later_...
+You can call me Sam, and I like to program all sorts of things. I also have an interest in videography and making documentaries. 
+
+### 💾 Projects
+
+- none...yet!
+
+### 📷 Videography
+
+- currently none...
