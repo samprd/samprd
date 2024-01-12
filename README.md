@@ -4,7 +4,7 @@ You can call me Sam, and I like to program all sorts of things. I also have an i
 
 ### 💾 Projects
 
-- none...yet!
+- My website: https://samprdev.github.io (it's not finished yet)
 
 ### 📷 Videography
 
